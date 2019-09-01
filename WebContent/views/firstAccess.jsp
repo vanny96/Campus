@@ -22,6 +22,7 @@
   <!-- Custom styles for this template-->
   <link href="${pageContext.request.contextPath}/views/templates/dashboard/css/sb-admin-2.min.css" rel="stylesheet">
 
+
 </head>
 
 <body class="bg-gradient-primary">
@@ -118,8 +119,10 @@
   <!-- Core plugin JavaScript-->
   <script src="${pageContext.request.contextPath}/views/templates/dashboard/vendor/jquery-easing/jquery.easing.min.js"></script>
 
+
   <!-- Custom scripts for all pages-->
   <script src="${pageContext.request.contextPath}/views/templates/dashboard/js/sb-admin-2.min.js"></script>
+
 
 </body>
 
