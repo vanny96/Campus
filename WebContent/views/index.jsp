@@ -23,7 +23,7 @@
                   <h6 class="m-0 font-weight-bold text-primary">Benvenuti nel campus</h6>
                 </div>
                 <div class="card-body">
-                  <p>In questa pagina ci sarà il messaggio di benvenuto</p>
+                  <p><!-- Poi un giorno ci sarà un messaggio --></p>
                 </div>
               </div>
           </div>
