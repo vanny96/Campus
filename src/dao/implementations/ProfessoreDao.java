@@ -93,6 +93,7 @@ public class ProfessoreDao implements ProfessoreInterface {
 			return professori;
 		} catch (Exception e) {
 			System.out.println("Error in getAll()");
+			e.printStackTrace();
 			return null;
 		} finally {
 			session.close();
