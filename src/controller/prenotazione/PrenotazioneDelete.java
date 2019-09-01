@@ -39,7 +39,7 @@ public class PrenotazioneDelete extends HttpServlet {
 					
 		daop.remove(p);
 		
-		response.sendRedirect("InserisciPrenotazione.jsp");
+		response.sendRedirect("PrenotazioneVisualizza");
 	}
 
 	/**
